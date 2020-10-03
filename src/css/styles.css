@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+.header {
+    width: 100%;
+}
+.name {
+    font-size: 2rem;
+}
+.nav-item {
+    font-size: 1.37rem;
+}
+.nav-link.active {
+    color: #ffffff;
+}
+
+section{
+    padding: 50px 0;
+}
+.doc-desc{
+    margin-top: 20px;
+}
